@@ -1,6 +1,6 @@
 ## CryptoNinjas ERC721 contract
 
-Name : Anushka Aggarwal
+Name : Anushka Aggarwal<br>
 Student ID : 101195651
 
 
